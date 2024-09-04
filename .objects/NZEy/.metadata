@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome NSE - National Stock Exchange of India Ltd Live ShareStock Market News & Updat",
+  "Type": "App",
+  "Id": "NZEyEoDZPkCj9vFSWmqK_w",
+  "Reference": "bd9PT7OV_kG1RYyNPbtpCQ/NZEyEoDZPkCj9vFSWmqK_w",
+  "Created": "2024-09-04T03:03:12.8314778Z",
+  "Updated": "2024-09-04T03:03:12.8314778Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

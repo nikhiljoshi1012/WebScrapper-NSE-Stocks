@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text 'Deliverable Quantity (g…'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "izatVBfKLUWghGXtNqfe3g",
+  "Reference": "bd9PT7OV_kG1RYyNPbtpCQ/izatVBfKLUWghGXtNqfe3g",
+  "ParentRef": "bd9PT7OV_kG1RYyNPbtpCQ/Q9U-vTA-1UWEEtijllwwyg",
+  "Created": "2024-09-04T03:05:42.170822Z",
+  "Updated": "2024-09-04T03:05:42.170822Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

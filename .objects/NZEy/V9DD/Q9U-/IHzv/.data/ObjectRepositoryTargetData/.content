@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9xVjwkG280quAax9XSZ7Vg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.nseindia.com/get-quotes/equity?symbol=SBIN" CVScreenId="d7b06065-63f2-4efd-a955-66cfec4e99c7" CvTextArea="875, 742, 56, 15" CvType="AnyWordGroup" DesignTimeRectangle="878, 743, 53, 18" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-role='presentation' parentid='info-tradeinfo' tag='TABLE' /&gt;&lt;webctrl id='orderBookDeliveryTradedQty' type='' tag='SPAN' class='bold' /&gt;" Guid="d6d776f1-2faa-4fb2-a6ff-9625dec6d3b5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='State Bank of India Share Price Today, Stock Price, Live NSE News, Quotes, Tips – NSE India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="611, 732, 165, 41" FuzzySelectorArgument="&lt;webctrl aria-role='presentation' parentid='info-tradeinfo' tag='TABLE' /&gt;&lt;webctrl id='percOfDeliverable_TradedQty' type='' tag='SPAN' class='' aaname='% of Deliverable / Traded Quantity' check:innerText='% of Deliverable / Traded&amp;#xA;Quantity' /&gt;" Guid="c8b287fc-6212-466d-891d-9fa9c5262f7f" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f0bad7611492ac7088806c26c83ddde4.png" xmlns="">0w6qGQ7x78Uu9uAyRp5KMUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text '% of Deliverable  Trad…'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "IHzv6Lp-DU6Xmz3tCJh_GA",
+  "Reference": "bd9PT7OV_kG1RYyNPbtpCQ/IHzv6Lp-DU6Xmz3tCJh_GA",
+  "ParentRef": "bd9PT7OV_kG1RYyNPbtpCQ/Q9U-vTA-1UWEEtijllwwyg",
+  "Created": "2024-09-04T03:03:13.1966534Z",
+  "Updated": "2024-09-04T03:03:13.1966534Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

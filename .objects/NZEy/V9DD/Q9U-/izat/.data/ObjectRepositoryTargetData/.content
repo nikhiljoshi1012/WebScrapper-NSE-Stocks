@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="E3zXvRa970OKG8UVZJ0koA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.nseindia.com/get-quotes/equity?symbol=SBIN" CVScreenId="96fcbc12-b011-4916-9d61-97dbaa291c65" CvTextArea="1185, 621, 68, 17" CvType="AnyWordGroup" DesignTimeRectangle="1133, 611, 127, 39" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='delivery_position_table' tag='TABLE' /&gt;&lt;webctrl type='' class='font-bold text-right' tag='TD' /&gt;" Guid="a6ef73e2-4234-41cc-a2e2-bd1e9df9f930" ScopeSelectorArgument="&lt;html app='chrome.exe' title='State Bank of India Share Price Today, Stock Price, Live NSE News, Quotes, Tips – NSE India' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="96fcbc12-b011-4916-9d61-97dbaa291c65" CvTextArea="690, 620, 307, 18" CvTextArgument="Deliverable Quantity (gross across client level)" CvType="Text" DesignTimeRectangle="678, 611, 455, 39" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='delivery_position_table' tag='TABLE' /&gt;&lt;webctrl id='DeliverableQuantity' type='' tag='TD' class='' aaname='Deliverable Quantity (gross across client level)' check:innerText='Deliverable Quantity (gross across client level)' /&gt;" Guid="dbf34122-2804-4604-b005-a07af9394a89" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="db469ff347d7b4c589c837081dd22be6.png" xmlns="">0ci96lKm7CkKw2at-Z5XPcQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
